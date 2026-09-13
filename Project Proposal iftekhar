@@ -1,0 +1,20 @@
+ PROJECT PROPOSAL
+
+
+ Background to the Problem
+University students often leave campus at similar times and travel toward the same or nearby destinations. However, many students do not know which classmates or verified students are travelling in the same direction. As a result, students may travel alone even when a suitable route companion is available. This creates a practical and safety-related problem, especially after evening classes, during bad weather, or when students are new to the campus area.
+Campus Route Buddy is proposed as a student route-matching and safe travel companion system. The system allows a verified student to enter a start location, destination, departure time, and travel mode. Based on this information, the system suggests verified students or available route groups travelling in a similar direction. Students can view limited route-related profiles, send requests, join groups, select approved campus meeting points, coordinate with accepted group members, and share a limited trip summary with a trusted contact for safety support.
+The project has important societal and safety value because it encourages students to travel in a more organized and trusted way within the university community. It also supports cultural comfort because some students may prefer travelling with verified university students rather than unknown people. The system avoids showing private home details and focuses on necessary route information only.
+The system also considers legal and ethical concerns. It does not calculate transport cost, manage payment, or handle private financial arrangements between students. It does not publicly display exact home addresses or unnecessary personal information. Trusted contacts receive only limited trip-summary information shared by the student. The main purpose is to help verified students find suitable route companions in a safe and organized manner.
+
+Selection of Process Model
+Selected Process Model: Scrum Model
+The Scrum Model is selected for Campus Route Buddy because the project is group-based and the work can be divided into short sprint tasks. Scrum is an Agile process model where known requirements are organized in a Product Backlog, prioritized, selected for a Sprint Backlog, completed through sprints, reviewed, and improved. In this project, Trello will be used to track tasks and Figma will be used to design screens for each selected user story.
+Scrum Model visualization:
+Pre-game Planning	Product Backlog	Sprint Planning & Sprint Backlog	Figma Design	Sprint Review & Feedback	Post-game Finalization
+Why this model is suitable:
+•	The project is group-based and Scrum supports teamwork, role distribution, and regular progress tracking.
+•	The user stories can be converted into Product Backlog items and Trello cards.
+•	The work can be divided into sprints such as proposal writing, SRS preparation, Figma wireframes, student screens, admin screens, and final documentation.
+•	Feedback from the teacher and group members can be reviewed after each sprint and used to improve the design.
+•	It is more suitable than Waterfall because requirements and UI flow may change during review, while Scrum supports iterative improvement.
